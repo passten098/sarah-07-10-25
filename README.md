@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sarah Aulia — Raden Fardan Mahardika</title>
+  <meta name="description" content="Cerita pendek bergaya novel tentang Raden Fardan Mahardika & Sarah Aulia — tiga bab: pertemuan, keasingan, dan kembalinya Sarah di hari ulang tahun." />
+  <style>
+    :root{--bg:#0f1724;--card:#0b1220;--muted:#94a3b8;--accent:#7c3aed;--text:#e6eef8}
+    *{box-sizing:border-box}
+    body{margin:0;font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial;line-height:1.6;background:linear-gradient(180deg,#061022 0%, #07121b 60%);color:var(--text);padding:40px}
+    .container{max-width:900px;margin:0 auto;background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));border-radius:12px;padding:36px;box-shadow:0 10px 30px rgba(2,6,23,0.6);border:1px solid rgba(255,255,255,0.03)}
+    header{margin-bottom:28px}
+    h1{font-family:Georgia, 'Times New Roman', serif;font-size:30px;margin:0 0 8px}
+    .byline{color:var(--muted);margin-bottom:18px}
+    .meta{display:flex;gap:12px;flex-wrap:wrap;color:var(--muted);font-size:14px}
+    .chapter{margin-top:28px}
+    .chapter h2{font-family:Georgia, 'Times New Roman', serif;font-size:22px;margin:12px 0}
+    p{margin:12px 0;font-size:16px}
+    .quote{font-style:italic;color:#cfe6ff;border-left:3px solid rgba(124,58,237,0.6);padding-left:14px;margin:14px 0}
+    .small{font-size:14px;color:var(--muted)}
+    footer{margin-top:32px;border-top:1px dashed rgba(255,255,255,0.03);padding-top:18px;color:var(--muted);font-size:14px}
+    .controls{display:flex;gap:8px;margin-top:12px}
+    .btn{background:transparent;border:1px solid rgba(255,255,255,0.06);color:var(--text);padding:8px 12px;border-radius:8px;cursor:pointer}
+    .btn.primary{background:linear-gradient(90deg,var(--accent),#4f46e5);border:none}
+    .download{display:inline-block;margin-top:12px;color:var(--accent);text-decoration:none}
+    @media (max-width:640px){body{padding:18px}.container{padding:20px}h1{font-size:22px}}
+  </style>
+</head>
+<body>
+  <main class="container" role="main">
+    <header>
+      <h1>Sarah Aulia</h1>
+      <div class="byline">Sebuah prosa: Raden Fardan Mahardika</div>
+      <div class="meta">
+        <div>Gaya: Prosa reflektif — tiga bab</div>
+        <div>Bahasa: Indonesia</div>
+      </div>
+    </header>
+
+    <article>
+      <section class="chapter" id="bab1">
+        <h2>Bab I</h2>
+        <p>Ada masa di hidupku ketika aku percaya bahwa pertemuan bukan sekadar kebetulan. Di sebuah ruang virtual yang dingin, aku bertemu Sarah Aulia—nama yang kelak menaruh hangat di sudut-sudut yang dulu beku.</p>
+        <p>Aku, Raden Fardan Mahardika, bukanlah laki-laki yang patut dibanggakan waktu itu. Terlalu sering memilih jalan yang salah, pulang larut, berbicara lantang pada orang yang mencintaiku. Hingga dia hadir—tanpa retorika—hanya dengan telinga yang sudi mendengar, dan kata-kata yang tidak menuntut.</p>
+        <p>Kami bertukar cerita tentang hal-hal kecil: musik yang mengisi senja, rutinitas yang tak berarti, rasa takut akan kegagalan. Hal-hal sepele itu kemudian menyusun sebuah kebiasaan: menantimu menekan tombol kirim, menunggu notifikasi yang mampu menenangkan hari.</p>
+        <p>Pelan-pelan aku berubah bukan demi dunia, tapi demi wajah yang menatap layar dan menyimpan rapi setiap celah jiwaku. Aku merasakan arti rumah kembali—dengan cara yang sederhana: menghubungi ibu tanpa alasan, menatap ayah tanpa rasa malu, menyadari bahwa aku memilikinya bukan karena aku layak, melainkan karena aku belajar untuk layak.</p>
+      </section>
+
+      <section class="chapter" id="bab2">
+        <h2>Bab II</h2>
+        <p>Perubahan tak selalu berujung selaras. Seiring hari, kata-kata yang once held warmth mulai kehilangan beratnya. Tawa yang dulu mengikat kita kini terseret oleh kesunyian kecil yang kita abaikan. Kami tidak berdebat hebat, kami hanya membiarkan jeda lebih lama dari yang seharusnya.</p>
+        <p>Tak ada perpisahan dramatis—hanya ada keganjilan yang makin menjadi, pesan yang lambat, sapaan yang meredup. Akhirnya, diam menjadi bahasa baru di antara kami. Kamu pergi bukan dengan sumpah, melainkan dengan menutup tab demi tab yang menautkan namaku padamu.</p>
+        <p>Setelah itu aku mengenal kehilangan yang sunyi: bukan amarah, bukan air mata saja, tapi sebuah ruang kosong yang terus bekerja di belakang hari. Aku mencoba mengisi hari-hari dengan tawa di luar rumah, percakapan ringan, namun setiap lagu yang kau kirim atau kalimatmu yang kukopi kembali memberi ruang pada rinduku.</p>
+      </section>
+
+      <section class="chapter" id="bab3">
+        <h2>Bab III</h2>
+        <p>Beberapa bulan berlalu. Lalu namamu muncul lagi di layar ponselku—sesuatu yang sederhana, namun cukup merobek tenang yang kubangun. Sebuah pesan: sapaan yang singkat, namun mengandung segala kemungkinan yang dulu kita simpan rapat.</p>
+        <p>Kami berbicara lagi. Tidak hangat seperti yang lama, tapi tidak dingin pula. Ada kehati-hatian dalam setiap kata, seperti dua orang berjalan di atas kaca. Aku merasakan rindu itu masih ada. Namun kali ini aku membawa pelajaran: tidak semua rasa perlu dilahirkan kembali jika hanya akan menoreh luka yang sama.</p>
+        <p>Hari ini adalah hari ulang tahunmu. Aku tidak lagi menjadi orang yang pertama mengirim ucapan; kita tidak lagi punya ritme yang sama. Namun ada yang tak berubah—cara aku menaruh syukur atas hadirnya kamu di hidupku. Cara aku menyimpan doa pada malam-malam sepi.</p>
+        <div class="quote">Selamat ulang tahun, Sarah Aulia. Terima kasih karena menjadi alasan aku berubah, menjadi diri yang sedikit lebih baik daripada kemarin. Doaku sederhana: semoga langkahmu ringan, hatimu damai, dan senyummu menemukan alasan baru untuk bertahan.</div>
+        <p class="small">— Raden Fardan Mahardika</p>
+      </section>
+    </article>
+
+    <div class="controls">
+      <button class="btn" id="printBtn">Cetak / Simpan PDF</button>
+      <button class="btn primary" id="copyBtn">Salin Teks</button>
+      <a class="download" id="downloadLink" download="sarah_aulia_raden_fardan.html">Unduh HTML</a>
+    </div>
+
+    
+  </main>
+
+  <script>
+    // Salin teks cerita
+    document.getElementById('copyBtn').addEventListener('click', async function(){
+      try{
+        const text = Array.from(document.querySelectorAll('article p, article .quote')).map(n=>n.innerText).join('\n\n');
+        await navigator.clipboard.writeText(text);
+        this.innerText = 'Tersalin!';
+        setTimeout(()=> this.innerText='Salin Teks',2000);
+      }catch(e){
+        alert('Tidak bisa menyalin secara otomatis — silakan blok teks dan salin manual.');
+      }
+    });
+
+    // Cetak
+    document.getElementById('printBtn').addEventListener('click', function(){
+      window.print();
+    });
+
+    // Buat link unduh file HTML (generate dari DOM)
+    (function(){
+      const html = '<!doctype html>\n' + document.documentElement.outerHTML;
+      const blob = new Blob([html], {type:'text/html'});
+      const url = URL.createObjectURL(blob);
+      const a = document.getElementById('downloadLink');
+      a.href = url;
+    })();
+  </script>
+</body>
+</html>
